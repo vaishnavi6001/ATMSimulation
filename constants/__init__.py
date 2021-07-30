@@ -1,0 +1,9 @@
+SEND_MONEY = 1
+CREATE_ACC = 2
+DISPLAY_BALANCE = 3
+DEPOSIT_MONEY = 4
+WITHDRAW_MONEY = 5
+EXIT = 6
+check_acc = True
+check_pin = True
+check_amount = True
